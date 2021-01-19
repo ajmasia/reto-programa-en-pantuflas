@@ -2,7 +2,25 @@
 
 ## **Tu diario empieza aquí**
 
-Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas/reto-programa-en-pantuflas).
+Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas/reto-programa-en-pantuflas)
+
+---
+
+**Fecha**: 19/01/2021 
+
+**Humor**: :grinning:
+
+**Hitos conseguidos**:
+
+* He implementado diferentes rutas que permiten mostrar de forma plana el contenido de las publicaciones de la #web para el RSS
+* He puesto en producción la primera versión de la #web
+* He resuelto algunos bugs pendientes en la #web
+
+**Próximos hitos**
+
+* He generado una primera documentación sobre el proyecto de la #web
+* He implementado el entorno de testing para el proyecto de la nueva #web
+* He implementado ls búsqueda de publicaciones en el blog
 
 ---
 
