@@ -15,6 +15,7 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 * He implementado diferentes rutas que permiten mostrar de forma plana el contenido de las publicaciones de la #web para el RSS
 * He puesto en producción la primera versión de la #web
 * He resuelto algunos bugs pendientes en la #web
+* He puesto en marcha mi sistema de gestión del conocimiento mediante la app Obsidian
 
 **Próximos hitos**
 
